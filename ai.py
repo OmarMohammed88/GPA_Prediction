@@ -99,7 +99,6 @@ Final_Data=constrains_per_min_Road(Cleaned_data3)
 
 
 plt.plot(Final_Data,color='red')
-plt.show()
 plt.plot(data1)
 plt.show()
 
