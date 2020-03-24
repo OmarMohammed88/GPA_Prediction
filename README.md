@@ -4,5 +4,5 @@
 <li> How many Hours of transportation the student take?</li>
 <li> How many hours do the students spend in college?</li>
 <li> How many days  do the  students attend to  college?</li>
-<li> The Dataset is collected from FCIH Helwan university </li>
+<li> The Dataset is collected from FCAI (Faculty Of Computers and Artificial Intellgence,Helwan university,Egypt) </li>
 </ul>
